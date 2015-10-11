@@ -10,6 +10,7 @@ Generate multi-unit schematic symbols for KiCad from a CSV file.
 
 * Free software: MIT license
 * Documentation: https://kipart.readthedocs.org.
+* Tutorial: https://www.youtube.com/watch?v=hX4l8i4TSWY
 
 Features
 --------
